@@ -1,8 +1,17 @@
 # 🚗 VEHICLE-T 3.0
 
-**A Relational Dynamical System with a Measurable Global Tension Signal**
 
+**A Relational Dynamical System with a Measurable Global Tension Signal**
+> A measurable framework for structural tension in complex systems.
 ---
+## 🔷 Abstract
+
+VEHICLE-T 3.0 extends the VEHICLE framework...
+
+This repository provides:
+- a modular implementation  
+- numerical experiments  
+- the foundation for measurable structural dynamics  
 
 ## 🔷 What is this?
 
@@ -87,6 +96,7 @@ Actor Tensor analysis
 Structural contribution analysis
 Temporal dynamics analysis
 Critical audit layer
+
 # 🔷 Experiments
 
 ## Experiment 1 — Base Dynamics
@@ -170,6 +180,7 @@ matplotlib
 Install dependencies:
 
 pip install numpy matplotlib
+
 🔷 Scientific Positioning
 
 VEHICLE-T 3.0 shifts the framework from:
@@ -181,6 +192,9 @@ The introduction of GTS enables:
 rigorous comparison between systems
 detection of structural regimes (dissipation, plateau, amplification)
 integration with higher-level analytical layers
+
+This transforms VEHICLE from a descriptive model into an operational measurement framework.
+
 🔷 Future Work
 Multi-agent critical evaluation layer (4 IA system)
 Structural decomposition of tension
@@ -188,10 +202,14 @@ Real-world domain instantiations:
 geopolitical systems
 corporate competition
 technological rivalry networks
+
 🔷 Author
 
-Roberto Borda Milan
-AIMTG — International Agency for Global Tension Measurement
+## 🔷 Author
+
+**Roberto Borda Milan**  
+AIMTG — International Agency for Global Tension Measurement  
+ORCID: 0009-0009-9047-1036
 
 🔷 Closing Statement
 
