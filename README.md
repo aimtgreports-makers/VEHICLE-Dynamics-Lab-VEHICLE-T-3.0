@@ -123,12 +123,17 @@ Introduction of the primary observable of VEHICLE-T 3.0.
 
 This experiment computes:
 
-- raw tension
-T(X(t))
-- normalized signal
-GTS(t)
-- temporal variation
-ΔGTS(t)
+### 🔹 Core Measurements
+
+- **Raw Tension**  
+  \(T(X(t))\)
+
+- **Global Tension Signal (GTS)**  
+  \(GTS(t)\)
+
+- **Temporal Variation**  
+  \(\Delta GTS(t)\)
+
 - comparison across different coupling regimes
 
 python experiments/exp4_gts_observable.py
@@ -205,7 +210,6 @@ technological rivalry networks
 
 🔷 Author
 
-## 🔷 Author
 
 **Roberto Borda Milan**  
 AIMTG — International Agency for Global Tension Measurement  
