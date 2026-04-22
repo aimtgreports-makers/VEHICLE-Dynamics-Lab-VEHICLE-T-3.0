@@ -149,6 +149,12 @@ This experiment represents the first instrumental implementation of VEHICLE-T 3.
 
 python experiments/exp4_gts_observable.py
 
+## 🔷 Example Visualization
+
+![Global Tension Signal](figures/gts_minimal_scientific.png)
+
+*Figure — Global Tension Signal (GTS) over discrete time. The system exhibits a progressive dissipative regime following an initial stabilization phase.*
+
 🔷 Repository Structure
 vehicle_dynamics_lab/
 │
